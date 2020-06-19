@@ -1,3 +1,9 @@
-# KNN手写识别
-## 加入了二值化是否有效的测试
-查看[结果统计.txt](https://github.com/Yu-zq1010/Learning-Machine_ING_202006/blob/master/knn%E6%89%8B%E5%86%99%E8%AF%86%E5%88%AB-CS1805%E4%BA%8E%E7%A5%AF%E5%A5%87-U201814615/%E7%BB%93%E6%9E%9C%E7%BB%9F%E8%AE%A1.txt)
+# 机器学习作业
+## 1. [KNN手写识别](https://github.com/Yu-zq1010/Learning-Machine_ING_202006/tree/master/knn%E6%89%8B%E5%86%99%E8%AF%86%E5%88%AB-CS1805%E4%BA%8E%E7%A5%AF%E5%A5%87-U201814615)
+### 该问文件夹中包括汇报ppt、源代码、以及数据集。也验证了是否二值化对于结果的影响
+* 不同二值化[结果统计](https://github.com/Yu-zq1010/Learning-Machine_ING_202006/blob/master/knn%E6%89%8B%E5%86%99%E8%AF%86%E5%88%AB-CS1805%E4%BA%8E%E7%A5%AF%E5%A5%87-U201814615/%E7%BB%93%E6%9E%9C%E7%BB%9F%E8%AE%A1.txt)
+## 2. [朴素贝叶斯垃圾分类](https://github.com/Yu-zq1010/Learning-Machine_ING_202006/tree/master/%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%9E%83%E5%9C%BE%E9%82%AE%E4%BB%B6%E5%88%86%E7%B1%BB-CS1805%E4%BA%8E%E7%A5%AF%E5%A5%87-U201814615)
+### 该文件夹共包括[数据集](https://github.com/Yu-zq1010/Learning-Machine_ING_202006/tree/master/%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%9E%83%E5%9C%BE%E9%82%AE%E4%BB%B6%E5%88%86%E7%B1%BB-CS1805%E4%BA%8E%E7%A5%AF%E5%A5%87-U201814615/%E6%95%B0%E6%8D%AE%E9%9B%86)、[测试集](https://github.com/Yu-zq1010/Learning-Machine_ING_202006/tree/master/%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%9E%83%E5%9C%BE%E9%82%AE%E4%BB%B6%E5%88%86%E7%B1%BB-CS1805%E4%BA%8E%E7%A5%AF%E5%A5%87-U201814615/%E6%B5%8B%E8%AF%95%E9%9B%86)以及[源码](https://github.com/Yu-zq1010/Learning-Machine_ING_202006/tree/master/%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%9E%83%E5%9C%BE%E9%82%AE%E4%BB%B6%E5%88%86%E7%B1%BB-CS1805%E4%BA%8E%E7%A5%AF%E5%A5%87-U201814615/%E6%BA%90%E7%A0%81)
+* 数据集中包括[垃圾邮件](https://github.com/Yu-zq1010/Learning-Machine_ING_202006/tree/master/%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%9E%83%E5%9C%BE%E9%82%AE%E4%BB%B6%E5%88%86%E7%B1%BB-CS1805%E4%BA%8E%E7%A5%AF%E5%A5%87-U201814615/%E6%95%B0%E6%8D%AE%E9%9B%86/%E5%9E%83%E5%9C%BE%E9%82%AE%E4%BB%B6)和[非垃圾邮件](https://github.com/Yu-zq1010/Learning-Machine_ING_202006/tree/master/%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%9E%83%E5%9C%BE%E9%82%AE%E4%BB%B6%E5%88%86%E7%B1%BB-CS1805%E4%BA%8E%E7%A5%AF%E5%A5%87-U201814615/%E6%95%B0%E6%8D%AE%E9%9B%86/%E9%9D%9E%E5%9E%83%E5%9C%BE%E9%82%AE%E4%BB%B6)的内容，以及停用词表
+* 测试集中包涵垃圾邮件和非垃圾邮件，以供测试，文件名中的数字小于100000的即为非垃圾邮件
+* 源码中包括原本的代码，以及其中需要的pkl文件
