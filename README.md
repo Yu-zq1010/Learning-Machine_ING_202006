@@ -8,4 +8,5 @@
 * 测试集中包涵垃圾邮件和非垃圾邮件，以供测试，文件名中的数字小于100000的即为非垃圾邮件
 * 源码中包括原本的代码，以及其中需要的pkl文件
 ## 3. [个人收入预测](https://github.com/Yu-zq1010/Learning-Machine_ING_202006/tree/master/%E4%B8%AA%E4%BA%BA%E6%94%B6%E5%85%A5%E9%A2%84%E6%B5%8B-CS1805%E4%BA%8E%E7%A5%AF%E5%A5%87-U201814615)
-本项目为机器学习结课项目，其中包含[源码](https://github.com/Yu-zq1010/Learning-Machine_ING_202006/blob/master/%E4%B8%AA%E4%BA%BA%E6%94%B6%E5%85%A5%E9%A2%84%E6%B5%8B-CS1805%E4%BA%8E%E7%A5%AF%E5%A5%87-U201814615/%E4%B8%AA%E4%BA%BA%E6%94%B6%E5%85%A5%E9%A2%84%E6%B5%8B.py)，数据集，实验结果.xls（实验中的不同学习率以及正则化参数对于准确率和Loss值得影响的测试结果Excel表），以及实验报告
+### 本项目为机器学习结课项目，其中包含[源码](https://github.com/Yu-zq1010/Learning-Machine_ING_202006/blob/master/%E4%B8%AA%E4%BA%BA%E6%94%B6%E5%85%A5%E9%A2%84%E6%B5%8B-CS1805%E4%BA%8E%E7%A5%AF%E5%A5%87-U201814615/%E4%B8%AA%E4%BA%BA%E6%94%B6%E5%85%A5%E9%A2%84%E6%B5%8B.py)，数据集，实验结果.xls，以及实验报告
+* 实验结果.xls是实验中更改不同参数，观察准确率和Loss值变化的测试结果汇总而成的Excel表
